@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on  creating softwares
 - 📫 How to reach me mburuian188@ngmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: the first person to carry the title of a coder was a woman named Ada lovelace
 
 <!---
 mburuian/mburuian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
