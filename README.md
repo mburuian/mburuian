@@ -8,6 +8,7 @@ I'm a passionate and ambitious **backend developer** focused on building robust,
 - 🤝 Looking for mentorship and to grow with the backend community
 - 📫 How to reach me: mburuian188@gmail.com
 - ⚡ Fun fact: I love turning complex problems into clean, functional solutions.
+- you can also look at my portfolio at ianmburu.nelify.app
 
 <!---
 mburuian/mburuian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
